@@ -1,5 +1,8 @@
 #smolified-engla-ner
 
+https://huggingface.co/smolify/smolified-engla-ner
+https://huggingface.co/datasets/smolify/smolified-engla-ner
+
 🎯 The Problem Solved
 Extracting Structured Data from Code-Mixed English-Bengali (Banglish) Text
 In South Asian digital communication, users frequently mix English and Romanized Bengali (e.g., "Amader team project niye Google headquarters e California te last month giyechilo"). Standard Natural Language Processing (NLP) tools and off-the-shelf Named Entity Recognition (NER) models traditionally fail at parsing this code-mixed text because they are trained primarily on standard, monolingual datasets.
